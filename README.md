@@ -1,9 +1,9 @@
-#Ejemplo de python3
+# Ejemplo de python3
 
 * el1
 * el2
 * el3
 
 
-#como usar
+# como usar
 ./python.py
